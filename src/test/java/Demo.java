@@ -6,6 +6,8 @@ public class Demo {
 
 
 		System.out.println("hello");
+		
+		System.out.println("This is my test case 1");
 
 	}
 
